@@ -1,3 +1,21 @@
-h1 {
-    color: purple;
+/*  work sans font from google font */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
+/* common code here */
+* {
+    font-family: 'Work Sans', sans-serif;
 }
+/* header design start here */
+
+
+
+
+
+
+/* main design start here */
+
+
+
+
+
+/* footer design start here */
+
